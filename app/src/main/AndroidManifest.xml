@@ -35,7 +35,8 @@
             android:name=".activities.BottomNavigationActivity"
             android:label="@string/title_activity_bottom_navigation" />
         <activity android:name=".activities.RegisterActivity" />
-        <activity android:name=".activities.MainActivity">
+        <activity android:name=".activities.MainActivity"
+            android:exported="true">
             <intent-filter>
                 <action android:name="android.intent.action.MAIN" />
 
