@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">Health Monitor</string>
+    <string name="title_activity_bottom_navigation">MainActivity</string>
+    <string name="title_home">Dashboard</string>
+    <string name="title_dashboard">Graphs</string>
+    <string name="title_notifications">Filter</string>
+    <string name="pref_file_key">pref_file_key</string>
+    <string name="pref_is_user_login">isuserlogin</string>
+    <string name="pref_name_of_user">nameof user</string>
+    <string name="pref_device_id"> id</string>
+
+    />
+
+</resources>
